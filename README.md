@@ -10,7 +10,7 @@ Meu nome é Gabriel Abbá, quero ser desenvolvedor Full-Stack!
 <img src = "giphy.gif" width = "350px" align = right align = center>
 
 - 📖 Estudante de Análise e Desenvolvimentos de Sistemas
-- 👩‍💻 Aprendendo sobre React
+- 👩‍💻 No momento estudando C# e .Net.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
